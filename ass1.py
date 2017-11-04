@@ -10,7 +10,7 @@ print(res1)
 
 
 def both_ends(s):
-  # +++your code here+++
+  # +++your code here++
   if len(s)>=2:
       str1=s[0:2]
       str2=s[len(s)-2:len(s)]
